@@ -1,0 +1,14 @@
+C:\Users\2023202060003\source\repos\AtividadeVeiculo\bin\Debug\net8.0\AtividadeVeiculo.exe
+C:\Users\2023202060003\source\repos\AtividadeVeiculo\bin\Debug\net8.0\AtividadeVeiculo.deps.json
+C:\Users\2023202060003\source\repos\AtividadeVeiculo\bin\Debug\net8.0\AtividadeVeiculo.runtimeconfig.json
+C:\Users\2023202060003\source\repos\AtividadeVeiculo\bin\Debug\net8.0\AtividadeVeiculo.dll
+C:\Users\2023202060003\source\repos\AtividadeVeiculo\bin\Debug\net8.0\AtividadeVeiculo.pdb
+C:\Users\2023202060003\source\repos\AtividadeVeiculo\obj\Debug\net8.0\AtividadeVeiculo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\2023202060003\source\repos\AtividadeVeiculo\obj\Debug\net8.0\AtividadeVeiculo.AssemblyInfoInputs.cache
+C:\Users\2023202060003\source\repos\AtividadeVeiculo\obj\Debug\net8.0\AtividadeVeiculo.AssemblyInfo.cs
+C:\Users\2023202060003\source\repos\AtividadeVeiculo\obj\Debug\net8.0\AtividadeVeiculo.csproj.CoreCompileInputs.cache
+C:\Users\2023202060003\source\repos\AtividadeVeiculo\obj\Debug\net8.0\AtividadeVeiculo.dll
+C:\Users\2023202060003\source\repos\AtividadeVeiculo\obj\Debug\net8.0\refint\AtividadeVeiculo.dll
+C:\Users\2023202060003\source\repos\AtividadeVeiculo\obj\Debug\net8.0\AtividadeVeiculo.pdb
+C:\Users\2023202060003\source\repos\AtividadeVeiculo\obj\Debug\net8.0\AtividadeVeiculo.genruntimeconfig.cache
+C:\Users\2023202060003\source\repos\AtividadeVeiculo\obj\Debug\net8.0\ref\AtividadeVeiculo.dll
